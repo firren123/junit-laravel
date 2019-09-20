@@ -1,0 +1,17 @@
+{
+    "name": "firren123/junit-laravel",
+    "description": "A simplified version of the laravel framework unit test",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "firren123",
+            "email": "firren@163.cm"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Firren\\JunitLaravel\\": "src"
+        }
+    }
+}
